@@ -1,17 +1,17 @@
 # Hello, I'm RockurDev! 👋
 
-**Junior Python Developer | Systems Analysis Enthusiast | AI and Drone Projects**
+**Junior Python Developer**
 
 ---
 
 ### 🚀 About Me
 
-I'm a passionate junior Python developer with a growing interest in systems analysis. Currently, I'm working on exciting projects that range from building APIs with Django to deploying AI-driven applications. Although I am just starting out in my career, my drive to learn and improve my skills is matched by my hands-on experience in both frontend and backend development.
+I'm a junior Python developer with a passion for systems analysis and a solid foundation in both frontend and backend development. Currently, I'm honing my skills while working on diverse projects like AI-powered drones and web development with Django.
 
 - 🌱 **Learning**: Python, Django, SQLModel, Telegram bots, AI-based systems
-- 👨‍💻 **Current Projects**: Developing a Telegram bot for student report management and building WebSites and APIs with Django
+- 👨‍💻 **Current Projects**: Developing a Telegram bot for student report management and building websites and APIs with Django
 - 🚁 **AI Enthusiast**: Currently working with drones in an AI-powered project
-- 🎓 **Courses**: Python Backend Developer, Asynchronous programming, Systems analysis, Statistics, Machine Learning 
+- 🎓 **Courses**: Python Backend Developer, Asynchronous Programming, Systems Analysis, Statistics, Machine Learning 
 - 💬 **Ask me about**: Python, SQL (PostgreSQL, SQLite), asyncio, HTTPX, Telegram bots, Docker, Django, and working with databases
 
 ---
@@ -33,50 +33,46 @@ I'm a passionate junior Python developer with a growing interest in systems anal
 
 ---
 
-I've looked at your GitHub profile. Here are project descriptions you can add to your README based on what you have:
-
----
-
 ### 📚 Projects
 
 #### 📝 Lessons Reporter Bot  
-A Telegram bot designed to manage student reports and interactions between teachers and parents. This bot simplifies the process of report creation, enabling teachers to input attendance, homework status, and other relevant information efficiently. Built using Python, Telebot, and SQLModel, and deployed with Docker.
+A Telegram bot designed to streamline the process of student report creation and teacher-parent communication. Built using Python, Telebot, and SQLModel, and deployed with Docker.
 
 - **Key Features**:
   - Multi-step reporting process
-  - Pagination for student lists
-  - Integration with SQLite for data persistence
+  - Student list pagination
+  - SQLite database integration
 
 #### 📅 Django Birthday Calculator  
-An engaging Django application that allows users to calculate upcoming birthdays and view countdowns to special dates. This project serves as a hands-on way to learn Django's capabilities while building a user-friendly interface.
+A Django application that calculates and displays countdowns to upcoming birthdays. This project helped me deepen my understanding of Django's functionality.
 
 - **Key Features**:
-  - User-friendly views for birthday input and countdown display
-  - Dynamic list view of all recorded birthdays
+  - Birthday input and countdown views
+  - List view for all birthdays
 
 #### 🌐 API-yatube  
-A blogging platform API built with Django 3.2, designed to manage users, posts, and comments. This project focuses on creating RESTful endpoints for a seamless user experience, enabling efficient interactions with blog data.
+A REST API for a blogging platform built with Django 3.2, providing CRUD operations for users, posts, and comments.
 
 - **Key Features**:
-  - Full CRUD operations for posts and comments
-  - User authentication and management
-  - Robust endpoint structure for frontend integration
+  - Full CRUD for posts and comments
+  - User authentication
+  - Efficient RESTful endpoints
 
 ---
 
 ### 🌱 Learning Goals
 
-- **Deepening my knowledge**: Advanced Python, Django Rest Framework, API development
-- **Exploring new technologies**: Artificial Intelligence, Drone automation, Swarm behaviors
+- **Advanced Python**: Continuing to expand my knowledge of Python and Django Rest Framework.
+- **AI Exploration**: Delving deeper into AI, drone automation, and swarm behaviors.
 
 ---
 
 ### 🎯 Team Projects
 
-Currently part of a student-led AI project team working on drone swarm technology. We're always seeking innovation and tackling real-world problems with creative solutions.
+I'm part of a student-led AI project team developing drone swarm technology, tackling real-world challenges with innovative solutions.
 
-**Team Inspiration**: Machines with huge potential – always growing and evolving, just like us!
+**Team Inspiration**: Machines with massive potential – always evolving like our ideas!
 
 ---
 
-Feel free to connect with me to discuss ideas, collaborate on projects, or simply chat about programming!
+Feel free to connect with me to collaborate on projects or discuss programming!
