@@ -60,19 +60,4 @@ A REST API for a blogging platform built with Django 3.2, providing CRUD operati
 
 ---
 
-### 🌱 Learning Goals
-
-- **Advanced Python**: Continuing to expand my knowledge of Python and Django Rest Framework.
-- **AI Exploration**: Delving deeper into AI, drone automation, and swarm behaviors.
-
----
-
-### 🎯 Team Projects
-
-I'm part of a student-led AI project team developing drone swarm technology, tackling real-world challenges with innovative solutions.
-
-**Team Inspiration**: Machines with massive potential – always evolving like our ideas!
-
----
-
 Feel free to connect with me to collaborate on projects or discuss programming!
