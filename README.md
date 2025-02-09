@@ -1,6 +1,6 @@
-# Hello, I'm RockurDev! 👋
+# Hello, I'm Daniil! 👋
 
-**Python Developer**
+**Software Python Developer**
 
 ---
 
