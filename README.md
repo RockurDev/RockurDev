@@ -8,15 +8,14 @@
 
 I'm a Python developer with a passion for systems analysis and a solid foundation in both frontend and backend development. Currently, I'm honing my skills while working on diverse projects.
 
-- 🌱 **Learning**: Python, Django, SQLModel, Telegram bots, AI-based systems
-- 👨‍💻 **Current Projects**: Developing a Telegram bot for student report management and building websites and APIs with Django
-- 🎓 **Courses**: Python Backend Developer, Asynchronous Programming, Systems Analysis, Statistics, Machine Learning 
-
 ---
 
 ### 🛠️ My Skills
-
-[![My Skills](https://skillicons.dev/icons?i=py,django,docker,sqlite,postgres,nginx,html,css,js,git,bash,github,githubactions,postman,vscode&perline=5)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,postgres,sqlite,docker,nginx,github,githubactions,vscode,postman,git,bash,linux,html,css,js&perline=8" />
+  </a>
+</p>
 
 ---
 
@@ -25,7 +24,7 @@ I'm a Python developer with a passion for systems analysis and a solid foundatio
 - **Languages**: Python, SQL (PostgreSQL, SQLite), JavaScript, HTML, CSS
 - **Frameworks**: Django, Django Rest Framework (DRF), SQLModel
 - **Libraries**: Telebot, Pydantic, HTTPX
-- **DevOps**: Docker, Bash scripting
+- **DevOps**: Docker, Bash scripting, , Gunicorn, Nginx
 - **Async**: asyncio, HTTPX
 - **Tools**: Git, ESLint, Ruff, Mypy, Pytest, SQLModel, SQLite
 
