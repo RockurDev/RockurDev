@@ -1,6 +1,6 @@
 # Hello, I'm Daniil! 👋
 
-**Software Python Developer**
+**Python Developer**
 
 ---
 
