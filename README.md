@@ -13,7 +13,7 @@ I'm a Python developer with a passion for systems analysis and a solid foundatio
 ### 🛠️ My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,postgres,sqlite,docker,nginx,github,githubactions,vscode,postman,git,bash,linux,html,css,js&perline=8" />
+    <img src="https://skillicons.dev/icons?i=apple,py,bash,git,github,githubactions,vscode,html,css,js,fastapi,django,sqlite,postgres,mongodb,redis,elasticsearch,docker,nginx,postman&perline=10" />
   </a>
 </p>
 
