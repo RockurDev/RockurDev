@@ -19,14 +19,21 @@ I'm a Python developer with a passion for systems analysis and a solid foundatio
 
 ---
 
-### 🔧 Technologies & Tools
+### 🛠 Tech Stack
 
-- **Languages**: Python, SQL (PostgreSQL, SQLite), JavaScript, HTML, CSS
-- **Frameworks**: Django, Django Rest Framework (DRF), SQLModel
-- **Libraries**: Telebot, Pydantic, HTTPX
-- **DevOps**: Docker, Bash scripting, , Gunicorn, Nginx
-- **Async**: asyncio, HTTPX
-- **Tools**: Git, ESLint, Ruff, Mypy, Pytest, SQLModel, SQLite
+
+| Category               | Technologies                                                                 |
+|:-----------------------|:----------------------------------------------------------------------------|
+| **Languages**           | Python, SQL (PostgreSQL, SQLite), JavaScript, HTML, CSS                     |
+| **Frameworks**          | Django, Django Rest Framework (DRF), SQLModel, SQLAlchemy                   |
+| **Libraries**           | Pydantic, Telebot, aiohttp                                                  |
+| **Async Programming**   | asyncio, HTTPX, aiohttp                                                     |
+| **Databases & Caching** | PostgreSQL, SQLite, MongoDB, Redis                                           |
+| **Search Engines**      | Elasticsearch                                                               |
+| **DevOps & Deployment** | Docker, Docker Compose, Bash scripting, Gunicorn, Nginx                     |
+| **Testing & Quality**   | Pytest, Ruff, Mypy, ESLint                                                   |
+| **Authentication**      | JWT authentication, session management, password hashing                   |
+| **Tools & Practices**   | Git, Linux server administration, full-cycle backend development            |
 
 ---
 
